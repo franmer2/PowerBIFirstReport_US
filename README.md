@@ -6,4 +6,4 @@ Below, a link to the video to the last version of this video. If you watch this 
 I think if you have a good semantic model, report creation should be quite easy.... And copilot can help to accelerate report creation too 
 😉.
 
-
+The video is available [here](https://youtu.be/uNLUxPaX4ko).
